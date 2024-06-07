@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: 'Celebrations: Phyllis Webb'
 manifest_name: celebrations-phyllis-webb
 permalink: celebrations-phyllis-webb
